@@ -1,4 +1,4 @@
-# 
+# instant cross-margin trading bot Algorithm | order-book-analysis + isolated-margin offers the most advanced cross-margin trading bot, with order-book-analysis and isolated-margin.
 
 
 
